@@ -2,7 +2,7 @@
 
 ## Overview
 
-This notebook illustrate how to fine-tune the OpenAI Whisper models for automatic speech recognition (ASR) tasks using Low-Rank Adaptation (LoRA). The goal is to reduce computational requirements while maintaining or improving transcription accuracy on a specific language and domain.
+This notebook illustrate how to fine-tune the OpenAI Whisper models for automatic speech recognition (ASR) tasks using Low-Rank Adaptation (LoRA). The goal is to improve transcription accuracy on a specific language and domain while reducing training computational requirements.
 
 ## Requirements
 
