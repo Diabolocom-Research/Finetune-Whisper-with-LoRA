@@ -23,7 +23,7 @@ conda activate ASR
 ```
 
 1. Install PyTorch (select the appropriate CUDA version and operating system):
-   [https://pytorch.org/get-started/locally/](https://pytorch.org/get-started/locally/)
+   [https://pytorch.org/get-started/locally/#mac-python](https://pytorch.org/get-started/locally/)
 
 2. Install required Python libraries:
 
